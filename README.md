@@ -8,7 +8,7 @@ I’m a software engineer with **8+ years of experience** building, maintaining,
 
 I currently work with an **international engineering team**, contributing across frontend, backend, and database layers. I enjoy solving complex problems, understanding business constraints, and making pragmatic technical decisions that keep software reliable and maintainable.
 
-[Portfolio](https://brunopanassi.com) · [LinkedIn](https://www.linkedin.com/in/bruno-henrique-panassi/) · [Technical articles](https://brunopanassi.com) · [Email](mailto:contact@brunopanassi.com)
+[Portfolio](https://brunopanassi.com) · [LinkedIn](https://www.linkedin.com/in/bruno-henrique-panassi/) · [Technical articles](https://brunopanassi.com/blog) · [Email](mailto:contact@brunopanassi.com)
 
 ---
 
