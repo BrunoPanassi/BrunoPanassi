@@ -59,8 +59,6 @@ Working with an international team on a data-intensive research platform. Contri
 
 **Engineering themes:** authorization, backward compatibility, query performance, maintainable UI architecture.
 
-> These summaries describe professional work at a high level. Proprietary source code, internal architecture, and confidential data are not shared here.
-
 ## Projects & technical writing
 
 - **[Compra Fácil](https://github.com/BrunoPanassi/compra-facil)** — A personal fullstack project used to explore application architecture, Vue/Nuxt, TypeScript, and PostgreSQL.
