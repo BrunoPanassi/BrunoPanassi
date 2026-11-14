@@ -59,6 +59,19 @@ Working with an international team on a data-intensive research platform. Contri
 
 **Engineering themes:** authorization, backward compatibility, query performance, maintainable UI architecture.
 
+## Engineering Evidence Matrix
+
+| Skill | Professional Evidence | Public Evidence | Status |
+|---|---|---|---|
+| Authentication & Authorization | Turing | Case study pending | To document |
+| Backward Compatibility | Turing | Case study pending | To document |
+| Database Performance | Turing | Benchmark pending | To document |
+| Vue.js Modernization | Turing / Veolia | Portfolio experience | Partial |
+| Technical Documentation | Turing | Case study pending | To document |
+| International Collaboration | Turing | LinkedIn / Portfolio | Documented |
+| Python | Turing / FMX | Existing repository | To review |
+| Java / Spring Boot | Veolia / Solinftec / FMX | Existing repositories | To review |
+
 ## Projects & technical writing
 
 - **[Compra Fácil](https://github.com/BrunoPanassi/compra-facil)** — A personal fullstack project used to explore application architecture, Vue/Nuxt, TypeScript, and PostgreSQL.
